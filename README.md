@@ -6,7 +6,7 @@ O objetivo é simular **a seleção de diferentes algoritmos (FretePadrao, Frete
 -----
 
 ## 📌 Diagrama de Classes
-
+![Diagrama UML](diagrama_de_classes.jpeg)
 -----
 
 ## 👩‍💻 Autora
